@@ -4,4 +4,7 @@ streamlit
 pickle
 pip==24.1.2
 scikit-learn
-
+matplotlib.pyplot
+seaborn
+squarify
+plotly.graph_objects
